@@ -98,7 +98,4 @@ export default {
 .done {
   text-decoration: line-through;
 }
-
-.editing {
-}
 </style>
